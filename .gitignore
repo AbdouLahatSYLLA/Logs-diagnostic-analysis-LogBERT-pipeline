@@ -7,3 +7,10 @@ __pycache__/
 downloaded_*/
 SYLLA-Abdou-Lahat-memoire.pdf
 academic_research_2nd_semester.pdf
+# Local-only work products (kept out of the repo)
+/gen_v3.py
+/add_phasec.py
+/academicResearch.tex
+/partie2.tex
+/figs/
+/pdf/
